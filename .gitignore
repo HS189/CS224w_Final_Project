@@ -1,0 +1,5 @@
+elliptic_bitcoin_dataset/
+CARE-GNN/data/
+test/
+train/
+train_ts_split/
